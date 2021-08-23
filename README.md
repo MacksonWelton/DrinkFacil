@@ -2,6 +2,8 @@
 
 Trata-se de uma aplicação de pesquisa de bebidas e seus respectivos ingredientes e modo de fazer. A mesma foi desenvolvida utilizando React.JS, React Router e TypeScript.
 
+[Clique aqui para visualizar a aplicação](https://drink-facil.netlify.app)
+
 ## Como rodar o projeto
 
 Para rodar em modo de desenvolvimento é necessário inserir o comando abaixo no terminal e em seguida pressionar enter:
